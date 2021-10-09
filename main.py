@@ -8,7 +8,7 @@ import json
 description = 'ByteSlash Community Discord bot'
 bot = commands.Bot(command_prefix='b,', description=description)
 
-token = "ODEzMTA2MzU5NzU1MDc5NzMw.YDKeTg.1OidDMdZiBn-U_A82cECk1w53fo"
+token = "TOKEN"
 
 #                                                                                                                       #
 #-----------------------------------------------------------------------------------------------------------------------#
